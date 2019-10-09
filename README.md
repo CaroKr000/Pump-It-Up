@@ -66,7 +66,7 @@ The following set of features about the waterpoints were provided:
 
 #### License
 
-The License is a general MIT license. Please see the LICENSE.rtf file in the Python_Project Folder as an additional reference.
+The License is a general MIT license. Please see the LICENSE.rtf file as an additional reference.
 
 This work is a joint project by Ryan Chiu, Jessica Mata, Carolin Kroeger, Sara Krumpak, during the IE Master in Big Data and Business Analytics.
 
