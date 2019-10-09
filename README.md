@@ -57,6 +57,8 @@ The following set of features about the waterpoints were provided:
 - *waterpoint_type* - The kind of waterpoint
 - *waterpoint_type_group* - The kind of waterpoint
 
+### Jupyter Notebook
+
 <img src="https://github.com/CaroKr000/Pump-It-Up/blob/master/readme_pics/1.png?raw=true" width=fill>
 <img src="https://github.com/CaroKr000/Pump-It-Up/blob/master/readme_pics/2.png?raw=true" width=fill>
 <img src="https://github.com/CaroKr000/Pump-It-Up/blob/master/readme_pics/3.png?raw=true" width=fill>
