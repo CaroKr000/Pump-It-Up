@@ -58,6 +58,7 @@ The following set of features about the waterpoints were provided:
 - *waterpoint_type_group* - The kind of waterpoint
 
 
+#### License
 
 License
 The License is a general MIT license. Please see the LICENSE.rtf file in the Python_Project Folder as an additional reference.
