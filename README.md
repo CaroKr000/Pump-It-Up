@@ -13,7 +13,7 @@ The target variable consists of three classes of water pumps: **Functional**, th
 
 An understanding of the respective conditions of these waterpoints can triage maintenance repairs and save the Ministry both time and money. 
 
-> [Link] to the competition (https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/).
+> [Link](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/) to the competition
 
 The following set of features about the waterpoints were provided: 
 
