@@ -1,4 +1,4 @@
-# Pump-It-Up: 
+# Pump It Up: 
 ### Machine Learning Project in Python 
 
 This challenge is hosted by *DrivenData*, a platform that hosts data science competitions in areas related to social impact and international development. The data for this competition comes from the Taarifa waterpoints dashboard, which aggregates data from the Tanzania Ministry of Water. 
