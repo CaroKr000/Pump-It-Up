@@ -58,6 +58,8 @@ The following set of features about the waterpoints were provided:
 - *waterpoint_type_group* - The kind of waterpoint
 
 
+<img src="https://github.com/CaroKr000/Pump-It-Up/blob/master/readme_pics/1.png?raw=true" width=fill>
+
 #### License
 
 The License is a general MIT license. Please see the LICENSE.rtf file in the Python_Project Folder as an additional reference.
