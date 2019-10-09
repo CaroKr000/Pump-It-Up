@@ -15,6 +15,7 @@ An understanding of the respective conditions of these waterpoints can triage ma
 
 > [Link](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/) to the competition
 
+
 The following set of features about the waterpoints were provided: 
 
 - *amount_tsh* - Total static head (amount water available to waterpoint)
